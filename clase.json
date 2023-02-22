@@ -1,0 +1,40 @@
+{
+  "squadName" : "Juan Camilo Duran",
+  "ciudad" : "Bogota",
+  "Año" : 2013,
+  "Base secreta" : "Super Guarida Secreta", 
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Duran Juan",
+      "Edad" : 26,
+      "Identidad" : "secreto",
+      "poderes" : [
+        "Rayo Lazer",
+        "super Fuerza",
+        "Teletrasportacion"
+      ]
+    },
+    {
+      "name" : "Super Pan",
+      "Edad" : 22,
+      "Identidad" : " Jose Jose ",
+      "poderes" : [
+        "Fuerza Bruta",
+        "Invisibilidad",
+        "Super Grito"
+      ]
+    },
+    {
+      "name" : "Super Jhon ",
+      "Edad" : 20,
+      "Identidad" : "Lana",
+      "poderes" : [
+        "Inmortabilidad",
+        "Inferno",
+        "Teletrasportacion",
+        "Resistencia al fuego "
+      ]
+    }
+  ]
+}
